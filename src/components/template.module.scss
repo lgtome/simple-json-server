@@ -1,0 +1,25 @@
+$defaultBorder: 8px;
+.template {
+  height: 14vh;
+  width: 20vw;
+  background: #ccc;
+  border-radius: $defaultBorder;
+}
+
+.content {
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  background: aliceblue;
+  border-radius: $defaultBorder;
+}
+
+
+.body {
+  background: white;
+}

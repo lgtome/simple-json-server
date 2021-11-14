@@ -1,0 +1,17 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "title": "some title"
+    }
+  ],
+  "card": [
+    {
+      "id": 1,
+      "body": {
+        "title": "title",
+        "text": "text"
+      }
+    }
+  ]
+}
