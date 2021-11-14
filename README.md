@@ -1,1 +1,1 @@
-### [JSON server](https://www.npmjs.com/package/json-server) simple template
+### [JSON server](https://www.npmjs.com/package/json-server) simple template with [redux](https://redux-toolkit.js.org/) 

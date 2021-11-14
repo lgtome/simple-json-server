@@ -20,7 +20,12 @@ export const Template = () => {
                 </div>
                 <div className={styles.body}>
                     <pre>
-                        {JSON.stringify([template.id, template.completed], null, 2)}
+                        {
+                            JSON.stringify(
+                                [template.id, template.completed],
+                                null,
+                                2)
+                        }
                     </pre>
                 </div>
             </div>
